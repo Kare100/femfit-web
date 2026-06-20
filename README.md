@@ -1,6 +1,6 @@
 # FemFit (Web)
 
-A women's fitness and wellness tracker, built with React and deployed on Vercel. This is the web version of FemFit — originally a Flutter mobile app — rebuilt so it's easy to deploy and try out straight from the browser.
+A women's fitness and wellness tracker, built with React and deployed on Vercel. This is the web version of FemFit — originally a Flutter mobile app  rebuilt so it's easy to deploy and try out straight from the browser.
 
 Log workouts, track your water intake, and check in on your mood for the day. Everything is saved in the browser's local storage so your data is there when you come back.
 
@@ -11,7 +11,7 @@ Log workouts, track your water intake, and check in on your mood for the day. Ev
 - Water intake tracker with a visual goal of 8 glasses a day
 - Mood check-in with six mood options
 - Data resets automatically each day
-- No backend, no login — everything stored locally in the browser
+- No backend, no login everything stored locally in the browser
 
 ## Tech stack
 
