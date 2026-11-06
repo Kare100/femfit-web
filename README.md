@@ -1,5 +1,7 @@
 # FemFit (Web)
 
+[![Build](https://github.com/Kare100/femfit-web/actions/workflows/build.yml/badge.svg)](https://github.com/Kare100/femfit-web/actions/workflows/build.yml)
+
 A women's fitness and wellness tracker, built with React and deployed on Vercel. This is the web version of FemFit — originally a Flutter mobile app  rebuilt so it's easy to deploy and try out straight from the browser.
 
 Log workouts, track your water intake, and check in on your mood for the day. Everything is saved in the browser's local storage so your data is there when you come back.
